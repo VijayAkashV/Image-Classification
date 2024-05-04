@@ -49,7 +49,3 @@ A simple web application for image classification using a Convolutional Neural N
 
 ![Home Page](homepage.png)
 ![Prediction](pred.png)
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
