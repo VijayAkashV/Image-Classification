@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/your_username/image-classification-web-app/main/icons/image_icon.png" alt="icon" width="40"/> Image Classification Web App
+#Image Classification Web App🖼️🚀 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.1.0-green?style=flat-square&logo=flask)
