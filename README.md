@@ -47,8 +47,8 @@ A simple web application for image classification using a Convolutional Neural N
 
 ## 🖼️ Screenshots
 
-![Home Page](/screenshots/home_page.png)
-![Prediction](/screenshots/prediction.png)
+![Home Page](homepage.png)
+![Prediction](pred.png)
 
 ## 📝 License
 
