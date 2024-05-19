@@ -44,8 +44,3 @@ A simple web application for image classification using a Convolutional Neural N
 
 2. Open your web browser and go to [http://localhost:5000](http://localhost:5000).
 3. Upload an image and click on the "Predict" button.
-
-## 🖼️ Screenshots
-
-![Home Page](homepage.png)
-![Prediction](pred.png)
